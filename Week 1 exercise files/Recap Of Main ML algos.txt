@@ -1,0 +1,14 @@
+Random Forest
+https://www.datasciencecentral.com/profiles/blogs/random-forests-explained-intuitively
+
+Gradient Boosting explained
+http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html
+
+Introduction to k-Nearest Neighbors
+https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/
+
+What is the difference between RandomForest and ExtraTrees models from sklearn
+https://stats.stackexchange.com/questions/175523/difference-between-random-forest-and-extremely-randomized-trees
+
+What is the difference between a decision boundary and a hyperplane?
+https://stackoverflow.com/questions/20669269/what-is-the-difference-between-a-decision-boundary-and-a-hyperplane#
